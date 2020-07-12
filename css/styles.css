@@ -1,0 +1,156 @@
+#title {
+  background-color: #0f4c75;
+  background-image: image("images/gym2.jpg");
+}
+
+.titlee {
+  font-family: 'Bangers', cursive;
+  font-size: 5rem;
+  padding-top: 80px;
+}
+
+h3 {
+  font-family: 'Nunito-bold', sans-serif;
+}
+
+p {
+  padding: 10%;
+  font-size: 1.2rem;
+  padding-top: 0;
+}
+
+.titlebuttons {
+  margin-top: 20px;
+}
+
+.ham {
+  background-color: #0f4c75;
+  margin-bottom: 20px;
+}
+
+.alpha {
+  color: black;
+}
+
+.nav-item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.img {
+  width: 65%;
+  height: 90%;
+  border-radius: 50%;
+  position: relative;
+  left: 10%;
+}
+
+#features {
+  text-align: center;
+  padding: 100px;
+  margin: 10px;
+}
+
+.featurebox {
+  padding: 5%;
+}
+
+.icon {
+  color: #27496d;
+  padding: 30px;
+}
+
+.icon:hover {
+  color: #142850;
+}
+
+#testimonials {
+  padding: 100px;
+  background-color: #0f4c75;
+  text-align: center;
+  line-height: 2;
+  font-family: 'Nunito-bold', sans-serif;
+}
+
+#press {
+  background-color: #0f4c75;
+  padding: 3%;
+  align-content: center;
+  text-align: center;
+}
+
+.testimonialpic {
+  height: 130px;
+  width: 130px;
+  border-radius: 50%;
+  margin: 20px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  padding-bottom: 1%;
+  padding-left: 16%;
+  padding-right: 16%;
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+em {
+  color: grey;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px;
+  margin-bottom: 20px;
+  margin-top: 0;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.price-text {
+  font-size: 3rem;
+  margin-bottom: 0px;
+  font-family: 'Nunito-bold', sans-serif;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.price p {
+  line-height: 0.5;
+}
+
+#cta {
+  background-color: #0f4c75;
+  text-align: center;
+  padding: 120px;
+  padding-top: 120px;
+  padding-bottom: 150px;
+  font-family: 'Nunito-bold', sans-serif;
+}
+
+#cta h3 {
+  font-size: 4rem;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+#footer {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.footerlogo {
+  padding: 1%;
+}
+
+.text {
+  padding-bottom: 70px;
+}
